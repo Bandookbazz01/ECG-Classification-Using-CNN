@@ -1,6 +1,17 @@
+# 📌 ECG Image Classification - Project Dependencies
+
+# 🧠 Core Deep Learning Framework
 tensorflow
+
+# 👁️ Computer Vision & Image Preprocessing
 opencv-python
+
+# 🔢 Numerical & Data Utilities
 numpy
+
+# 📊 Data Visualization & Charting
 matplotlib
 seaborn
+
+# 🤖 Machine Learning & Metrics Evaluation
 scikit-learn
